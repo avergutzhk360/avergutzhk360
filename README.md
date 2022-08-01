@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi, I'm Andressa  👋
 
-<!--
-**avergutzhk360/avergutzhk360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ph.D. in Computer Science. Currently, I'm CTO at [HK360](https://heijunka360.com/) and very engaged in Easy 360 development! 🚀
 
-Here are some ideas to get you started:
+<div>
+ <p>Current tools that I'm learning </p>
+ <ul>
+   <li> 🌎 Front-end Web with ReactJS </li>
+   <li> ☁️ Cloud services [AWS] </li>
+   <li> 🛠️ Typescript </li>
+ </ul>
+ </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+ <p> 💭 Find me elsewhere </p>
+ <a href="https://www.linkedin.com/in/andressa-vergutz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="malito:andressa@heijunka360.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+ 
+</div>
